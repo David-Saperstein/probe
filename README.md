@@ -1,4 +1,4 @@
-# What the heck is Probe?
+# Welcome to Probe!
 It's an nmap-like tool written in rust.
 At first I plan on reproducing the essential behaviors of nmap.
 Then I'll focus on adding new features aimed at red-teamers and network testers.
